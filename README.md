@@ -219,4 +219,4 @@ MobileGo is available as a full free version with all features and updates inclu
 Get started with MobileGo today and experience the ultimate in Android management!
 
 ---
-**Last updated:** 2026-11-04 05:46:28 UTC
+**Last updated:** 2026-11-04 14:08:53 UTC
